@@ -18,5 +18,6 @@ class ArrayOperations {
 
 		System.out.printf("%d %d\n%d %d", arr[0][0], arr[0][lastPositionOfFirstRow],
 				arr[lastRowPosition][0], arr[lastRowPosition][lastPositionOfLastRow]);
+		
 	}
 }
